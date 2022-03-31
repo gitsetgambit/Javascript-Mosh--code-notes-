@@ -14,3 +14,4 @@ const college = {
 
 // we are not calling a function we are calling a method 
 college.teachersQualification();
+console.log();

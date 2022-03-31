@@ -1,0 +1,8 @@
+{
+    "js/ts.implicitProjectConfig.checkJs": true,
+    "js/ts.implicitProjectConfig.strictNullChecks": true,
+    "python.defaultInterpreterPath": "",
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "debug.console.historySuggestions": false
+}
